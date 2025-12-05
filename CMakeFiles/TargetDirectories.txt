@@ -1,0 +1,3 @@
+/home/vinz/XSV/Untitled/CMakeFiles/Game.dir
+/home/vinz/XSV/Untitled/CMakeFiles/edit_cache.dir
+/home/vinz/XSV/Untitled/CMakeFiles/rebuild_cache.dir

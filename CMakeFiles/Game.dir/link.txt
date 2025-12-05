@@ -1,0 +1,1 @@
+/usr/bin/clang++ -Xlinker --dependency-file=CMakeFiles/Game.dir/link.d CMakeFiles/Game.dir/src/main.cpp.o -o Game  -lm -lraylib
